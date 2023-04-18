@@ -309,3 +309,7 @@ const login_check = () => {
 const goSave = () => {
     location.href = "save.html";
 }
+
+function blogLink() {
+    window.open("https://blog.naver.com/gkdudquf","_blank");
+}
